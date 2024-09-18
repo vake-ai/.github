@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+Total Maritime Domain Awareness is a combined effort. We do our part by processing multispectral satellite images with cutting edge machine learning. Our ship detections provides a focal point for your maritime operations – wherever you are.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit our [website](https://vake.ai/) to learn more 🚀
